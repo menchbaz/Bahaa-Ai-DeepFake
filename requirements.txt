@@ -8,7 +8,7 @@ insightface==0.7.3
 psutil==5.9.5
 tk==0.1.0
 customtkinter
-tkinterdnd2==0.3.0; sys_platform != 'darwin' and platform_machine != 'arm64'
+tkinterdnd2==0.4.3; sys_platform != 'darwin' and platform_machine != 'arm64'
 pillow==10.0.0
 onnxruntime-gpu==1.15.1
 tensorflow
